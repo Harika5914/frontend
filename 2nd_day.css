@@ -1,6 +1,6 @@
 body{
     
-    background-image: url('fancy.jpg');
+    background-image: url('leaves-4754980.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -41,7 +41,7 @@ nav ul li a:hover{
     color: rgb(235, 241, 243);
     border: 5px;
     border-radius: 5px;
-    background-color: rgba(255,255,255,0.2);
+    background-color: rgba(30, 22, 22, 0.548);
     backdrop-filter: blur;
     box-shadow: 0 4px 6px rgba(0,0,0,0.5);
 }
